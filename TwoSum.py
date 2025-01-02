@@ -1,3 +1,5 @@
+#https://leetcode.com/problems/two-sum/description/
+
 def better(nums, target):
 
     mp = {}
