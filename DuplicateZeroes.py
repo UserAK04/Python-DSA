@@ -1,5 +1,10 @@
 # https://leetcode.com/problems/duplicate-zeros/description/?envType=problem-list-v2&envId=array&difficulty=EASY&status=TO_DO
 
+# Approach:
+# Take 2 ptrs i & j
+# Keep i at last pos of arr & j at (last pos + no. of zeroes in arr)
+# While they are not equal, duplicate ith ele to jth pos and then decrement both i , j
+# If ith ele is 0 then duplicate ith ele to jth pos and then decrement j
 
 def duplicateZeros(arr):
 
