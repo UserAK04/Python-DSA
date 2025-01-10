@@ -6,6 +6,8 @@
 # While they are not equal, duplicate ith ele to jth pos and then decrement both i , j
 # If ith ele is 0 then duplicate ith ele to jth pos and then decrement j
 
+# Revision - |
+
 def duplicateZeros(arr):
 
     z = arr.count(0)
