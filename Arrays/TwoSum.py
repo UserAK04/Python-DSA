@@ -1,5 +1,10 @@
 #https://leetcode.com/problems/two-sum/description/
 
+# Approach:
+# Traverse across the array & calculate diff btw each ele & the target
+# Check whether the diff is present in the map
+# If not present then add that ele to map with index as its value
+
 def better(nums, target):
 
     mp = {}
