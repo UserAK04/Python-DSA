@@ -5,6 +5,8 @@
 # Use and & or operators for checking
 # And count even ones
 
+# Revision - |
+
 
 def best(nums):
     cnt = 0
