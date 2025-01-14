@@ -5,6 +5,8 @@
 # Check whether the diff is present in the map
 # If not present then add that ele to map with index as its value
 
+# Revision - 
+
 def better(nums, target):
 
     mp = {}
