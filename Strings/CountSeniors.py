@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/number-of-senior-citizens/description/?envType=problem-list-v2&envId=array&difficulty=EASY&status=TO_DO
+# https://leetcode.com/problems/number-of-senior-citizens/description/
 
 # Approach:
 # Convert the value at index 11 and 12 to a numerical value.
