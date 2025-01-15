@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/find-closest-number-to-zero/description/?envType=problem-list-v2&envId=array&difficulty=EASY&status=TO_DO
+# https://leetcode.com/problems/find-closest-number-to-zero/description/
 
 # Approach:
 # Traverse accross the array
