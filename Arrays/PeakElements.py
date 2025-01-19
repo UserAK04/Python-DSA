@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/find-the-peaks/description/?envType=problem-list-v2&envId=array&difficulty=EASY&status=TO_DO
+# https://leetcode.com/problems/find-the-peaks/description/
 
 # Approach:
 # If nums[i] > num[i - 1] and nums[i] > nums[i + 1] nums[i] is a peak.
