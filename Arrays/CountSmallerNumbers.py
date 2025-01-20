@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/?envType=problem-list-v2&envId=array&difficulty=EASY&status=TO_DO
+# https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/description/
 
 # Input:
 # nums = [8, 1, 2, 2, 3]
