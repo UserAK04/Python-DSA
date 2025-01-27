@@ -1,5 +1,11 @@
 # https://leetcode.com/problems/length-of-last-word/description/?envType=problem-list-v2&envId=string
 
+# Approach:
+# Keep a ptr at last index of string
+# Omit all Spaces
+# Count/Store all eles except Spaces
+
+
 # Input:
 s = "Hello World"
 # Output: 5
