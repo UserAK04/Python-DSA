@@ -1,5 +1,12 @@
 # https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=problem-list-v2&envId=string
 
+# Approach:
+# Use hash map to store each ele
+# For each unique ele store it's index
+# And for the ele already present in the map
+# Store "#" symbol
+# Compare and return that value which is not equal to symbol
+
 # Input:
 # s = "leetcode"
 # Output: 0
