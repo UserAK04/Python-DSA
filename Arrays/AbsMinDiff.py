@@ -1,5 +1,7 @@
 # https://leetcode.com/problems/minimum-absolute-difference/description/?envType=problem-list-v2&envId=array&difficulty=EASY&status=TO_DO
 
+# Revision - |
+
 # Approach:
 # Sort the array
 # Traverse & determine the min absolute difference present in the array
