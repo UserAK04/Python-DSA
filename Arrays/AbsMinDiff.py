@@ -1,5 +1,11 @@
 # https://leetcode.com/problems/minimum-absolute-difference/description/?envType=problem-list-v2&envId=array&difficulty=EASY&status=TO_DO
 
+# Approach:
+# Sort the array
+# Traverse & determine the min absolute difference present in the array
+# Again Traverse and store the values 
+# Whose consecutive's difference is equal to Min absolute diff
+
 # Example 1:
 
 # Input:
