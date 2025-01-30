@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/minimum-absolute-difference/description/?envType=problem-list-v2&envId=array&difficulty=EASY&status=TO_DO
+# https://leetcode.com/problems/minimum-absolute-difference/description/
 
 # Revision - |
 
