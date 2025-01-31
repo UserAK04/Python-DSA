@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=problem-list-v2&envId=string
+# https://leetcode.com/problems/first-unique-character-in-a-string/description/
 
 # Approach:
 # Use hash map to store each ele
