@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/length-of-last-word/description/?envType=problem-list-v2&envId=string
+# https://leetcode.com/problems/length-of-last-word/description/
 
 # Approach:
 # Keep a ptr at last index of string
