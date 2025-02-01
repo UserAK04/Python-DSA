@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/check-balanced-string/?envType=problem-list-v2&envId=string
+# https://leetcode.com/problems/check-balanced-string/description/
 
 # Input:
 num = "1234"
