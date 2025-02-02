@@ -1,11 +1,18 @@
 # https://leetcode.com/problems/longest-palindrome/description/?envType=problem-list-v2&envId=string
 
+# Approach:
+# Use hashmap to store ele and it's freq
+# Count all freqs who are even
+# if value is odd then substract 1 and add to result
+# if result is even and current ele is odd the add 1 to result
+
+
 # Input:
 s = "abccccddd"
 # Output: 7
 
 # Input:
-# s = "a"
+s = "a"
 # Output: 1
 
 
@@ -20,7 +27,11 @@ def solve(s):
 
     res = 0
     for key in map:
-        res += (map[key] // 2) * 2
+
+        res += (map[key] // 2) * 2  # if value is odd then substract 1
+        # OR
+        # res += map[key] - 1 if map[key] % 2 else map[key]
+
         if res % 2 == 0 and map[key] % 2 == 1:
             res += 1
 
