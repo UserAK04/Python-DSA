@@ -1,4 +1,4 @@
-# https://www.geeksforgeeks.org/problems/binary-string-1587115620/1?page=2&category=Strings&difficulty=Basic,Easy&status=unsolved&sortBy=submissions
+# https://www.geeksforgeeks.org/problems/binary-string-1587115620/1
 
 # Approach:
 # [ n * (n-1) / 2 ]
