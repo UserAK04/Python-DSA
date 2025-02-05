@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/fizz-buzz/description/?envType=problem-list-v2&envId=string
+# https://leetcode.com/problems/fizz-buzz/description/
 
 # Input:
 # n = 3
