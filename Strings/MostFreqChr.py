@@ -1,4 +1,4 @@
-# https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1?page=1&category=Strings&difficulty=Basic,Easy&status=unsolved&sortBy=submissions
+# https://www.geeksforgeeks.org/problems/maximum-occuring-character-1587115620/1?
 
 # Approach:
 # Take a alphabets hash array of 27 size ( as 26 alphabets )
