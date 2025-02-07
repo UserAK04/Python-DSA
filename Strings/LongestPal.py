@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/longest-palindrome/description/?envType=problem-list-v2&envId=string
+# https://leetcode.com/problems/longest-palindrome/description/
 
 # Approach:
 # Use hashmap to store ele and it's freq
