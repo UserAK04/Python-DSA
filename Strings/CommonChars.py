@@ -1,5 +1,11 @@
 # https://leetcode.com/problems/find-common-characters/description/?envType=problem-list-v2&envId=string
 
+# Approach:
+# Use first word as the reference word & hash it's chars frequency
+# Now do this for each word & compare the first freqmap with each new freqmaps
+# Update the first freqmap with the min value of freq from the comparison
+
+
 # Input:
 words = ["bella", "label", "roller"]
 # Output: ["e","l","l"]
@@ -12,17 +18,17 @@ words = ["bella", "label", "roller"]
 def solve(words):
 
     resultMap = {}
-
-    for ele in words[0]:
+    refWord = words[0]
+    for ele in refWord:
         if resultMap.get(ele, "#") == "#":
             resultMap[ele] = 1
         else:
             resultMap[ele] += 1
 
-    for word in words:
+    for i in range(1, len(words)):
 
         currentMap = {}
-        for ele in word:
+        for ele in words[i]:
             if currentMap.get(ele, "#") == "#":
                 currentMap[ele] = 1
             else:
@@ -33,7 +39,6 @@ def solve(words):
 
     result = []
     for key in resultMap:
-
         for i in range(resultMap[key]):
             result.append(key)
 
