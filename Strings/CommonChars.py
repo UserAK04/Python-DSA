@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/find-common-characters/description/?envType=problem-list-v2&envId=string
+# https://leetcode.com/problems/find-common-characters/description/
 
 # Approach:
 # Use first word as the reference word & hash it's chars frequency
