@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/reverse-string/submissions/1519636204/?envType=problem-list-v2&envId=string
+# https://leetcode.com/problems/reverse-string/description/
 
 # Input:
 s = ["h", "e", "l", "l", "o"]
