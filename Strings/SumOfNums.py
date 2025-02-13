@@ -1,4 +1,4 @@
-# https://www.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1?page=2&category=Strings&difficulty=Basic,Easy&status=unsolved&sortBy=submissions
+# https://www.geeksforgeeks.org/problems/sum-of-numbers-in-string-1587115621/1?
 
 # Approach:
 # Take a sum var and num var to store complete number
